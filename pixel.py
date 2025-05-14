@@ -1,4 +1,4 @@
-# Авторы скрипта: jrius & Grigory Tebenkov
+# Авторы скрипта: jrius & tebenkov-prog
 # t.me/lcapybarov & t.me/dcapybarov
 
 import requests
